@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: onec6n4xq-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/onec6n4xq-nodejs
